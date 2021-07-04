@@ -1,2 +1,1 @@
-# react-todo
-Created with CodeSandbox
+Список задач (ToDo) на ReactJS
